@@ -43,6 +43,12 @@ MedBot is a **Retrieval-Augmented Generation (RAG)**-based chatbot application t
 
 ---
 
+## **Demo**
+
+![Screenshot (144)](https://github.com/user-attachments/assets/a0f8d81a-6f46-4b39-9c69-c886b6b81318)
+![Screenshot (145)](https://github.com/user-attachments/assets/80f79418-c194-469f-96bf-1bab03f2f68c)
+
+
 ## **Installation and Setup**
 
 ### 1. **Clone the Repository**
@@ -72,7 +78,7 @@ pip install -r requirements.txt
 
 ### 5.  **Run the Application**
 ```bash
-streamlit run main.py
+streamlit run medbot.py
 ```
 
 
